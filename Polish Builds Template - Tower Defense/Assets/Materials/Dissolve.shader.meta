@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 3f0e0a6726b59c54c92694ce379cc83a
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _rendertajsolidnoise: {fileID: 2800000, guid: 4de5d9b57e898584d89866a83ef11db0,
+      type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
